@@ -1,0 +1,8 @@
+name: run selenium test
+on:
+  push:
+    branches:["master"]
+
+jobs:
+  test:
+    run-on:

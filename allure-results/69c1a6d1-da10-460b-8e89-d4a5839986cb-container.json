@@ -1,0 +1,1 @@
+{"uuid":"69c1a6d1-da10-460b-8e89-d4a5839986cb","name":"Todo.examples.Base.BaseTest.quit","children":["f0db7a89-9557-4c91-aabc-556f691d5bb2"],"description":"","befores":[],"afters":[{"name":"quit","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1683237922958,"stop":1683237924660}],"start":1683237922958,"stop":1683237924660}
